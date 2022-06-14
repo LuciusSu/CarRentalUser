@@ -1,0 +1,11140 @@
+/*
+	@name login_userpc_
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px;  overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_login_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__login_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#about_us {
+	top: 53px;
+	left: 1085px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home {
+	top: 53px;
+	left: 733px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car {
+	top: 53px;
+	left: 874px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#login {
+	top: 53px;
+	left: 1274px;
+	width: 113px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#image_1 {
+	top: 179px;
+	left: 615px;
+	width: 211px;
+	height: 205px;
+}
+
+
+#email {
+	top: 412px;
+	left: 419px;
+	width: 111px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#password {
+	top: 538px;
+	left: 419px;
+	width: 174px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#forgot_your_password_ {
+	top: 802px;
+	left: 558px;
+	width: 360px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-style: italic;
+	text-align: left;
+	color:#2361D9;
+}
+
+
+#rectangle_2 {
+	top: 455px;
+	left: 419px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_3 {
+	top: 581px;
+	left: 419px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_rectangle_4 {
+	top: 694px;
+	left: 507px;
+	width: 184px;
+	height: 83px;
+	background:rgba(254,178,155,1);
+}
+
+
+#login_ek1 {
+	top: 717px;
+	left: 559px;
+	width: 113px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_rectangle_5 {
+	top: 694px;
+	left: 750px;
+	width: 184px;
+	height: 83px;
+	background:rgba(242,225,205,1);
+}
+
+
+#sign_up {
+	top: 717px;
+	left: 786px;
+	width: 147px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_homepage_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2891px;
+}
+
+#_bg__homepage_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2891px;
+	background:rgba(238,239,234,1);
+}
+
+
+#image_2 {
+	top: 142px;
+	left: 0px;
+	width: 1440px;
+	height: 882px;
+}
+
+
+#welcome_to_bob_s_car_rental_service__bcr_ {
+	top: 351px;
+	left: 106px;
+	width: 1255px;
+	height: 462px;
+	overflow: hidden;
+	font-family: Varela;
+	font-size: 100px;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #527590;
+	text-shadow: 0 0 2px #527590;
+	color:#F1D7C2;
+}
+
+
+#rectangle_1177 {
+	top: 1073px;
+	left: 273px;
+	width: 892px;
+	height: 422px;
+	background:rgba(254,178,155,1);
+}
+
+
+#rectangle_1178 {
+	top: 2025px;
+	left: 273px;
+	width: 892px;
+	height: 422px;
+	background:rgba(254,178,155,1);
+}
+
+
+#most_popular_rented_102_times_toyata_vios_4th_gen_1_5l_107ps {
+	top: 1212px;
+	left: 813px;
+	width: 322px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#524F4A;
+}
+
+
+#trending_rented_86_times_2021_honda_city_1_5l_109_121ps {
+	top: 2157px;
+	left: 809px;
+	width: 276px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#524F4A;
+}
+
+
+#image_3 {
+	top: 1103px;
+	left: 299px;
+	width: 420px;
+	height: 362px;
+}
+
+
+#image_4 {
+	top: 2048px;
+	left: 295px;
+	width: 420px;
+	height: 362px;
+}
+
+
+#rectangle_1179 {
+	top: 1549px;
+	left: 273px;
+	width: 892px;
+	height: 422px;
+	background:rgba(254,178,155,1);
+}
+
+
+#image_6 {
+	top: 1579px;
+	left: 299px;
+	width: 420px;
+	height: 362px;
+}
+
+
+#hot_rented_69_times_2019_perodua_myvi_1_3_1_5l_95_103ps {
+	top: 1688px;
+	left: 813px;
+	width: 307px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#524F4A;
+}
+
+
+#rectangle_1180 {
+	top: 2501px;
+	left: 47px;
+	width: 1351px;
+	height: 342px;
+	background:rgba(242,225,205,1);
+}
+
+
+#tel__013_6725985_fax__235_348_7842_parit_raja_uthm {
+	top: 2618px;
+	left: 773px;
+	width: 314px;
+	height: 129px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#contact_us {
+	top: 2636px;
+	left: 113px;
+	width: 386px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_7 {
+	top: 2541px;
+	left: 1296px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_8 {
+	top: 2607px;
+	left: 1296px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_9 {
+	top: 2679px;
+	left: 1296px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_10 {
+	top: 2744px;
+	left: 1290px;
+	width: 61.69px;
+	height: 55px;
+}
+
+#group_2077 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+#group_2075 {
+	top: 42px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group {
+	top: 16px;
+	left: 313px;
+	width: 23.45px;
+	height: 27.48px;
+}
+#group_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 27.48px;
+}
+#group_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 27.48px;
+}
+
+#vector {
+	top: 15px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.2px;
+}
+
+
+#vector_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 17.56px;
+}
+
+
+#search {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#image_1_ek1 {
+	top: 13px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#_about_us_ek1 {
+	top: 53px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile {
+	top: 53px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek1 {
+	top: 55px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek1 {
+	top: 53px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout {
+	top: 53px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_homepage_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 3024px;
+}
+
+#_bg__homepage_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 3024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1180_ek1 {
+	top: 2569px;
+	left: 50px;
+	width: 1351px;
+	height: 342px;
+	background:rgba(242,225,205,1);
+}
+
+
+#tel__013_6725985_fax__235_348_7842_parit_raja_uthm_ek1 {
+	top: 2686px;
+	left: 776px;
+	width: 314px;
+	height: 129px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#contact_us_ek1 {
+	top: 2704px;
+	left: 116px;
+	width: 386px;
+	height: 115px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 60px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_7_ek1 {
+	top: 2609px;
+	left: 1299px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_8_ek1 {
+	top: 2675px;
+	left: 1299px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_9_ek1 {
+	top: 2747px;
+	left: 1299px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_10_ek1 {
+	top: 2812px;
+	left: 1293px;
+	width: 61.69px;
+	height: 55px;
+}
+
+
+#image_2_ek1 {
+	top: 142px;
+	left: 0px;
+	width: 1440px;
+	height: 882px;
+}
+
+
+#welcome_to_bob_s_car_rental_service__bcr__ek1 {
+	top: 351px;
+	left: 106px;
+	width: 1255px;
+	height: 462px;
+	overflow: hidden;
+	font-family: Varela;
+	font-size: 100px;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #527590;
+	text-shadow: 0 0 2px #527590;
+	color:#F1D7C2;
+}
+
+
+#rectangle_1177_ek1 {
+	top: 1112px;
+	left: 274px;
+	width: 892px;
+	height: 422px;
+	background:rgba(254,178,155,1);
+}
+
+
+#most_popular_rented_102_times_toyata_vios_4th_gen_1_5l_107ps_ek1 {
+	top: 1251px;
+	left: 814px;
+	width: 322px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#524F4A;
+}
+
+
+#image_3_ek1 {
+	top: 1142px;
+	left: 300px;
+	width: 420px;
+	height: 362px;
+}
+
+
+#rectangle_1178_ek1 {
+	top: 1622px;
+	left: 274px;
+	width: 892px;
+	height: 422px;
+	background:rgba(254,178,155,1);
+}
+
+
+#trending_rented_86_times_2021_honda_city_1_5l_109_121ps_ek1 {
+	top: 1754px;
+	left: 810px;
+	width: 276px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#524F4A;
+}
+
+
+#image_4_ek1 {
+	top: 1645px;
+	left: 296px;
+	width: 420px;
+	height: 362px;
+}
+
+
+#rectangle_1179_ek1 {
+	top: 2095px;
+	left: 270px;
+	width: 892px;
+	height: 422px;
+	background:rgba(254,178,155,1);
+}
+
+
+#image_6_ek1 {
+	top: 2125px;
+	left: 296px;
+	width: 420px;
+	height: 362px;
+}
+
+
+#hot_rented_69_times_2019_perodua_myvi_1_3_1_5l_95_103ps_ek1 {
+	top: 2234px;
+	left: 810px;
+	width: 307px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#524F4A;
+}
+
+
+#about_us_ek2 {
+	top: 53px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek1 {
+	top: 53px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek2 {
+	top: 55px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek2 {
+	top: 53px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#logout_ek1 {
+	top: 53px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#group_2080 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 262.98px;
+}
+#group_2076_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+#group_2081 {
+	top: 42px;
+	left: 1048px;
+	width: 336px;
+	height: 220.98px;
+}
+#group_2070_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 220.98px;
+}
+#group_2052_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 220.98px;
+}
+
+#rectangle_1176_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek3 {
+	top: 136px;
+	left: 313px;
+	width: 23.45px;
+	height: 84.88px;
+}
+#group_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 84.88px;
+}
+#group_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 84.88px;
+}
+
+#vector_ek2 {
+	top: 47px;
+	left: 13px;
+	width: 10.4px;
+	height: 37.67px;
+}
+
+
+#vector_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 54.23px;
+}
+
+
+#search_ek1 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#image_3_ek2 {
+	top: 12px;
+	left: 13px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#_about_us_ek3 {
+	top: 58px;
+	left: 785px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek2 {
+	top: 58px;
+	left: 254px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek3 {
+	top: 58px;
+	left: 149px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_info {
+	top: 58px;
+	left: 366px;
+	width: 162px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rental_detail {
+	top: 58px;
+	left: 514px;
+	width: 214px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_car {
+	top: 58px;
+	left: 714px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek2 {
+	top: 55px;
+	left: 938px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_signup_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__signup_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#about_us_ek4 {
+	top: 53px;
+	left: 1085px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek4 {
+	top: 53px;
+	left: 733px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek3 {
+	top: 53px;
+	left: 874px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#login_ek2 {
+	top: 53px;
+	left: 1275px;
+	width: 113px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#image_1_ek2 {
+	top: 13px;
+	left: 66px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#name {
+	top: 195px;
+	left: 461px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#email_ek1 {
+	top: 575px;
+	left: 461px;
+	width: 111px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_2_ek1 {
+	top: 238px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_3_ek1 {
+	top: 364px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#ic_passport_number {
+	top: 321px;
+	left: 461px;
+	width: 324px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_6 {
+	top: 496px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#phone_number {
+	top: 446px;
+	left: 461px;
+	width: 247px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_7 {
+	top: 622px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#password_ek1 {
+	top: 698px;
+	left: 461px;
+	width: 174px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_8 {
+	top: 741px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_rectangle_5_ek1 {
+	top: 860px;
+	left: 658px;
+	width: 184px;
+	height: 83px;
+	background:rgba(242,225,205,1);
+}
+
+
+#sign_up_ek1 {
+	top: 883px;
+	left: 694px;
+	width: 147px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_editprofile_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__editprofile_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#name_ek1 {
+	top: 195px;
+	left: 461px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#email_ek2 {
+	top: 575px;
+	left: 461px;
+	width: 111px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_2_ek2 {
+	top: 238px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_3_ek2 {
+	top: 364px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#ic_passport_number_ek1 {
+	top: 321px;
+	left: 461px;
+	width: 324px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_6_ek1 {
+	top: 496px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#phone_number_ek1 {
+	top: 446px;
+	left: 461px;
+	width: 247px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_7_ek1 {
+	top: 622px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#password_ek2 {
+	top: 698px;
+	left: 461px;
+	width: 174px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_8_ek1 {
+	top: 741px;
+	left: 461px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_rectangle_5_ek2 {
+	top: 860px;
+	left: 658px;
+	width: 184px;
+	height: 83px;
+	background:rgba(242,225,205,1);
+}
+
+
+#save {
+	top: 883px;
+	left: 714px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_2077_ek1 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek3 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek1 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek6 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek4 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek2 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek5 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek3 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek5 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek4 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek3 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#mr__jeremy_john {
+	top: 258px;
+	left: 482px;
+	width: 270px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_52312_13_3214 {
+	top: 383px;
+	left: 482px;
+	width: 254px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_013_21398133 {
+	top: 516px;
+	left: 482px;
+	width: 241px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jeremyj_gmail_com {
+	top: 638px;
+	left: 482px;
+	width: 310px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#a__________193_ {
+	top: 757px;
+	left: 482px;
+	width: 282px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_profile_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1836px;
+}
+
+#_bg__profile_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1836px;
+	background:rgba(238,239,234,1);
+}
+
+
+#image_11 {
+	top: 198px;
+	left: 652px;
+	width: 136.01px;
+	height: 135px;
+}
+
+
+#rectangle_1181 {
+	top: 392px;
+	left: 305px;
+	width: 830px;
+	height: 222px;
+	background:rgba(242,225,205,1);
+}
+
+
+#name_i_c_phone_number_email_password {
+	top: 413px;
+	left: 432px;
+	width: 247px;
+	height: 201px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#___mr__jeremy_john___52312_13_3214___013_21398133___jeremyj_gmail_com___a__________193_ {
+	top: 413px;
+	left: 666px;
+	width: 327px;
+	height: 201px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1182 {
+	top: 671px;
+	left: 142px;
+	width: 1155px;
+	height: 310px;
+	background:rgba(254,178,155,1);
+}
+
+
+#_2019_perodua_myvi_1_3_1_5l_95_103ps_plate_number__mbm_7893__date_of_return___27th_june_2022__2_days_left_ {
+	top: 786px;
+	left: 634px;
+	width: 668px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_6_ek2 {
+	top: 768px;
+	left: 174px;
+	width: 382px;
+	height: 181px;
+}
+
+
+#current_rental {
+	top: 688px;
+	left: 174px;
+	width: 249px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1183 {
+	top: 1025px;
+	left: 142px;
+	width: 1155px;
+	height: 758px;
+	background:rgba(254,178,155,1);
+}
+
+
+#_2020_proton_x50_1_5l_150_177ps_plate_number__atb_1931__date_of_return___29th_feb_2021 {
+	top: 1590px;
+	left: 635px;
+	width: 477px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2020_nissan_almera_1_0l_100ps_plate_number__jtj_1850__date_of_return___15th_may_2021 {
+	top: 1365px;
+	left: 635px;
+	width: 477px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2020_toyota_hilux_2_4_2_8l_150_204ps_plate_number__sep_2022__date_of_return___12th_nov_2021 {
+	top: 1123px;
+	left: 635px;
+	width: 477px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#previous_rental {
+	top: 1042px;
+	left: 149px;
+	width: 266px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_16 {
+	top: 1122px;
+	left: 162px;
+	width: 386px;
+	height: 181px;
+}
+
+
+#image_17 {
+	top: 1347px;
+	left: 162px;
+	width: 386px;
+	height: 181px;
+}
+
+
+#image_18 {
+	top: 1572px;
+	left: 162px;
+	width: 386px;
+	height: 181px;
+}
+
+
+#_image_30 {
+	top: 392px;
+	left: 1075px;
+	width: 60px;
+	height: 60px;
+}
+
+#group_2077_ek2 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+#group_2081_ek1 {
+	top: 39px;
+	left: 1017px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek9 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek6 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek3 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#image_1_ek4 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#_about_us_ek6 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek4 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek6 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek5 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek4 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_profile_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__profile_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1181_ek1 {
+	top: 460px;
+	left: 305px;
+	width: 830px;
+	height: 222px;
+	background:rgba(242,225,205,1);
+}
+
+
+#name_i_c_phone_number_email_password_ek1 {
+	top: 481px;
+	left: 432px;
+	width: 247px;
+	height: 201px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#___admin___465711_01_6653___012_2556767___admin_gmail_com___a__________ {
+	top: 481px;
+	left: 666px;
+	width: 311px;
+	height: 201px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_11_ek1 {
+	top: 216px;
+	left: 652px;
+	width: 136.01px;
+	height: 135px;
+}
+
+
+#image_29 {
+	top: 460px;
+	left: 1075px;
+	width: 60px;
+	height: 60px;
+}
+
+#group_2080_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_3_ek3 {
+	top: 12px;
+	left: 13px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2081_ek2 {
+	top: 42px;
+	left: 1048px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek12 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek8 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek4 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek7 {
+	top: 58px;
+	left: 785px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek5 {
+	top: 58px;
+	left: 254px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek7 {
+	top: 58px;
+	left: 149px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_info_ek1 {
+	top: 58px;
+	left: 366px;
+	width: 162px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rental_detail_ek1 {
+	top: 58px;
+	left: 514px;
+	width: 214px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_car_ek1 {
+	top: 58px;
+	left: 714px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek5 {
+	top: 55px;
+	left: 938px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_aboutus_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1871px;
+}
+
+#_bg__aboutus_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1871px;
+	background:rgba(238,239,234,1);
+}
+
+
+#image_19 {
+	top: 127px;
+	left: 0px;
+	width: 1440px;
+	height: 897px;
+}
+
+
+#we_are_bob_s_car_rental_service_short_for_bcr__we_are_a_family_run_business_founded_by_our_late_grandfather_bob_marley__he_started_this_business_not_knowing_anything_about_this_field_but_very_passionate_about_cars__this_business_struggled_in_the_beginning_but_soon_enough__the_business_flourished_as_it_became_a_well_known_car_rental_business_in_johor_ {
+	top: 394px;
+	left: 59px;
+	width: 1364px;
+	height: 516px;
+	overflow: hidden;
+	font-family: Varela;
+	font-size: 50px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #527590;
+	text-shadow: 0 0 2px #527590;
+	color:#F1D7C2;
+}
+
+
+#about_us_ek8 {
+	top: 195px;
+	left: 21px;
+	width: 560px;
+	height: 202px;
+	overflow: hidden;
+	font-family: Varela;
+	font-size: 100px;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #527590;
+	text-shadow: 0 0 2px #527590;
+	color:#F1D7C2;
+}
+
+
+#rectangle_1193 {
+	top: 1069px;
+	left: 64px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#ian_chee_wee_soong__product_owner_ {
+	top: 1244px;
+	left: 86px;
+	width: 315px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_1201 {
+	top: 1464px;
+	left: 818px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1202 {
+	top: 1464px;
+	left: 805px;
+	width: 375px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1199 {
+	top: 1464px;
+	left: 317px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1200 {
+	top: 1464px;
+	left: 304px;
+	width: 375px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1197 {
+	top: 1069px;
+	left: 1035px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1198 {
+	top: 1069px;
+	left: 1022px;
+	width: 375px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#nur_nadzirah_binti_roslan__ui_designer_ {
+	top: 1244px;
+	left: 1024px;
+	width: 381px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_1195 {
+	top: 1069px;
+	left: 559px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1196 {
+	top: 1069px;
+	left: 546px;
+	width: 375px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#su_hong_ming__project_manager_ {
+	top: 1244px;
+	left: 601px;
+	width: 275px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#nur_syasya_amira_binti_musa__ux_designer_ {
+	top: 1639px;
+	left: 356px;
+	width: 280px;
+	height: 129px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#mohammad_hariz__backend_developer_ {
+	top: 1639px;
+	left: 839px;
+	width: 317px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#img_20220610_214914_1 {
+	top: 1481px;
+	left: 922px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#image_23 {
+	top: 1081px;
+	left: 1135px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#syasya_1 {
+	top: 1481px;
+	left: 407px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#rectangle_1194 {
+	top: 1081px;
+	left: 164px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#image1_1 {
+	top: 1081px;
+	left: 659px;
+	width: 150px;
+	height: 150px;
+}
+
+#group_2077_ek3 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+#group_2075_ek2 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek15 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek10 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek5 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#image_1_ek5 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#about_us_ek9 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek6 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek8 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek6 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek6 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_aboutus_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1886px;
+}
+
+#_bg__aboutus_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1886px;
+	background:rgba(238,239,234,1);
+}
+
+
+#image_19_ek1 {
+	top: 127px;
+	left: 0px;
+	width: 1440px;
+	height: 897px;
+}
+
+
+#we_are_bob_s_car_rental_service_short_for_bcr__we_are_a_family_run_business_founded_by_our_late_grandfather_bob_marley__he_started_this_business_not_knowing_anything_about_this_field_but_very_passionate_about_cars__this_business_struggled_in_the_beginning_but_soon_enough__the_business_flourished_as_it_became_a_well_known_car_rental_business_in_johor__ek1 {
+	top: 394px;
+	left: 59px;
+	width: 1364px;
+	height: 516px;
+	overflow: hidden;
+	font-family: Varela;
+	font-size: 50px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #527590;
+	text-shadow: 0 0 2px #527590;
+	color:#F1D7C2;
+}
+
+
+#about_us_ek10 {
+	top: 195px;
+	left: 21px;
+	width: 560px;
+	height: 202px;
+	overflow: hidden;
+	font-family: Varela;
+	font-size: 100px;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #527590;
+	text-shadow: 0 0 2px #527590;
+	color:#F1D7C2;
+}
+
+
+#rectangle_1193_ek1 {
+	top: 1069px;
+	left: 64px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#ian_chee_wee_soong__product_owner__ek1 {
+	top: 1244px;
+	left: 86px;
+	width: 315px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_1201_ek1 {
+	top: 1464px;
+	left: 818px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1202_ek1 {
+	top: 1464px;
+	left: 805px;
+	width: 375px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1199_ek1 {
+	top: 1464px;
+	left: 317px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1200_ek1 {
+	top: 1464px;
+	left: 304px;
+	width: 375px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1197_ek1 {
+	top: 1069px;
+	left: 1035px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1198_ek1 {
+	top: 1069px;
+	left: 1022px;
+	width: 375px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#nur_nadzirah_binti_roslan__ui_designer__ek1 {
+	top: 1244px;
+	left: 1024px;
+	width: 381px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_1195_ek1 {
+	top: 1069px;
+	left: 559px;
+	width: 350px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rectangle_1196_ek1 {
+	top: 1069px;
+	left: 546px;
+	width: 375px;
+	height: 350px;
+	background:rgba(217,217,217,1);
+}
+
+
+#su_hong_ming__project_manager__ek1 {
+	top: 1244px;
+	left: 601px;
+	width: 275px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#nur_syasya_amira_binti_musa__ux_designer__ek1 {
+	top: 1639px;
+	left: 356px;
+	width: 280px;
+	height: 129px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#mohammad_hariz__backend_developer__ek1 {
+	top: 1639px;
+	left: 839px;
+	width: 317px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#img_20220610_214914_1_ek1 {
+	top: 1481px;
+	left: 922px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#image_23_ek1 {
+	top: 1081px;
+	left: 1135px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#syasya_1_ek1 {
+	top: 1481px;
+	left: 407px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#rectangle_1194_ek1 {
+	top: 1081px;
+	left: 164px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#image1_1_ek1 {
+	top: 1081px;
+	left: 655px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#about_us_ek11 {
+	top: 53px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek7 {
+	top: 53px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek9 {
+	top: 55px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek7 {
+	top: 53px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#logout_ek7 {
+	top: 53px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#group_2080_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_3_ek4 {
+	top: 12px;
+	left: 13px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#about_us_ek12 {
+	top: 58px;
+	left: 785px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek8 {
+	top: 58px;
+	left: 254px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek10 {
+	top: 58px;
+	left: 149px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_info_ek2 {
+	top: 58px;
+	left: 366px;
+	width: 162px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rental_detail_ek2 {
+	top: 58px;
+	left: 514px;
+	width: 214px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_car_ek2 {
+	top: 58px;
+	left: 714px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek8 {
+	top: 55px;
+	left: 938px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#group_2075_ek3 {
+	top: 39px;
+	left: 1061px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek18 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek12 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek6 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+#page_rentacardetails_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__rentacardetails_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#time {
+	top: 176px;
+	left: 61px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#return_date {
+	top: 556px;
+	left: 61px;
+	width: 204px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9 {
+	top: 219px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_rectangle_14 {
+	top: 904px;
+	left: 1134px;
+	width: 273px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#submit {
+	top: 924px;
+	left: 1221px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_10 {
+	top: 345px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#date {
+	top: 302px;
+	left: 61px;
+	width: 102px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_11 {
+	top: 477px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#duration {
+	top: 427px;
+	left: 61px;
+	width: 156px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_12 {
+	top: 603px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#location {
+	top: 679px;
+	left: 61px;
+	width: 157px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_13 {
+	top: 722px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_8am {
+	top: 239px;
+	left: 82px;
+	width: 97px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_25th_july_2022 {
+	top: 364px;
+	left: 82px;
+	width: 249px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_days {
+	top: 497px;
+	left: 82px;
+	width: 133px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_27th_july_2022 {
+	top: 619px;
+	left: 82px;
+	width: 247px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#parit_raja {
+	top: 738px;
+	left: 82px;
+	width: 169px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#car_ek3 {
+	top: 176px;
+	left: 759px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_15 {
+	top: 219px;
+	left: 759px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#perodua_myvi__rm120_per_day_ {
+	top: 235px;
+	left: 780px;
+	width: 471px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#vector_1 {
+	top: 253px;
+	left: 1302px;
+	width: 30px;
+	height: 10.5px;
+}
+
+#group_2077_ek4 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek6 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek4 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek21 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek14 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek7 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek13 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek9 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek11 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek8 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek9 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_rentacar_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__rentacar_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1189 {
+	top: 275px;
+	left: 79px;
+	width: 1310px;
+	height: 189px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rm660 {
+	top: 403px;
+	left: 1145px;
+	width: 142px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rm800 {
+	top: 337px;
+	left: 1145px;
+	width: 142px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#batu_pahat {
+	top: 338px;
+	left: 980px;
+	width: 195px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#muar {
+	top: 400px;
+	left: 1025px;
+	width: 129px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_16_01_2021 {
+	top: 407px;
+	left: 788px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11_12_2021 {
+	top: 339px;
+	left: 788px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_07_12_2021 {
+	top: 338px;
+	left: 459px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_14_01_2021 {
+	top: 407px;
+	left: 459px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_5_days {
+	top: 338px;
+	left: 648px;
+	width: 138px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_days_ek1 {
+	top: 407px;
+	left: 648px;
+	width: 138px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11pm {
+	top: 407px;
+	left: 354px;
+	width: 115px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_10am {
+	top: 338px;
+	left: 354px;
+	width: 115px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#action {
+	top: 285px;
+	left: 1275px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_11 {
+	top: 370px;
+	left: 1159px;
+	width: 189px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_10 {
+	top: 370px;
+	left: 1041px;
+	width: 189px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+#jbl_3380 {
+	top: 407px;
+	left: 176px;
+	width: 137px;
+	height: 36px;
+}
+
+#jbl_3380_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 172px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#return_date_ek1 {
+	top: 285px;
+	left: 779px;
+	width: 204px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jdt_1890 {
+	top: 339px;
+	left: 176px;
+	width: 170px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2 {
+	top: 407px;
+	left: 109px;
+	width: 54px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_1 {
+	top: 339px;
+	left: 109px;
+	width: 49px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#plate {
+	top: 285px;
+	left: 208px;
+	width: 107px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#duration_ek1 {
+	top: 285px;
+	left: 627px;
+	width: 156px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#location_ek1 {
+	top: 285px;
+	left: 992px;
+	width: 157px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#total {
+	top: 285px;
+	left: 1157px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#date_ek1 {
+	top: 285px;
+	left: 507px;
+	width: 102px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rent_a_car_ek9 {
+	top: 203px;
+	left: 1150px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#time_ek1 {
+	top: 285px;
+	left: 355px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_5 {
+	top: 392px;
+	left: 78px;
+	width: 1308px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.13deg);
+	-o-transform:rotate(-0.13deg);
+	-webkit-transform:rotate(-0.13deg);
+	-moz-transform:rotate(-0.13deg);
+	transform:rotate(-0.13deg);
+	background:#000000;
+}
+
+
+#no {
+	top: 285px;
+	left: 97px;
+	width: 76px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_3 {
+	top: 371px;
+	left: 230px;
+	width: 189px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_6 {
+	top: 371px;
+	left: 360px;
+	width: 189px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_8 {
+	top: 370px;
+	left: 669px;
+	width: 189px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_7 {
+	top: 371px;
+	left: 527px;
+	width: 189px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_1 {
+	top: 331px;
+	left: 79px;
+	width: 1308px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.13deg);
+	-o-transform:rotate(-0.13deg);
+	-webkit-transform:rotate(-0.13deg);
+	-moz-transform:rotate(-0.13deg);
+	transform:rotate(-0.13deg);
+	background:#000000;
+}
+
+
+#line_2 {
+	top: 371px;
+	left: 66px;
+	width: 189px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_9 {
+	top: 371px;
+	left: 876px;
+	width: 189px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#image_34 {
+	top: 403px;
+	left: 1265px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_33 {
+	top: 331px;
+	left: 1265px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#_image_28 {
+	top: 187px;
+	left: 1329px;
+	width: 60px;
+	height: 60px;
+}
+
+#group_2077_ek5 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek7 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek5 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek24 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek25 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek26 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek16 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek8 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek14 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek10 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek12 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek10 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek10 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_rental_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__rental_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1189_ek1 {
+	top: 194px;
+	left: 67px;
+	width: 1310px;
+	height: 249px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rm660_ek1 {
+	top: 391px;
+	left: 1128px;
+	width: 142px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rm360 {
+	top: 264px;
+	left: 1128px;
+	width: 142px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rm800_ek1 {
+	top: 330px;
+	left: 1128px;
+	width: 142px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#batu_pahat_ek1 {
+	top: 331px;
+	left: 963px;
+	width: 195px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#parit_raja_ek1 {
+	top: 265px;
+	left: 968px;
+	width: 185px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#muar_ek1 {
+	top: 388px;
+	left: 1008px;
+	width: 129px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_16_01_2021_ek1 {
+	top: 395px;
+	left: 771px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11_12_2021_ek1 {
+	top: 332px;
+	left: 771px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_29_06_2022 {
+	top: 266px;
+	left: 768px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_27_06_2022 {
+	top: 266px;
+	left: 442px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_07_12_2021_ek1 {
+	top: 331px;
+	left: 442px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_14_01_2021_ek1 {
+	top: 395px;
+	left: 442px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_5_days_ek1 {
+	top: 331px;
+	left: 631px;
+	width: 138px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_days_ek2 {
+	top: 265px;
+	left: 631px;
+	width: 138px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_days_ek3 {
+	top: 395px;
+	left: 631px;
+	width: 138px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_8pm {
+	top: 265px;
+	left: 345px;
+	width: 99px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11pm_ek1 {
+	top: 395px;
+	left: 337px;
+	width: 115px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_10am_ek1 {
+	top: 331px;
+	left: 337px;
+	width: 115px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_8pm_ek1 {
+	top: 265px;
+	left: 345px;
+	width: 99px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#action_ek1 {
+	top: 204px;
+	left: 1263px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_11_ek1 {
+	top: 318px;
+	left: 1117px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_10_ek1 {
+	top: 318px;
+	left: 999px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+#jbl_3380_ek2 {
+	top: 395px;
+	left: 159px;
+	width: 137px;
+	height: 36px;
+}
+
+#jbl_3380_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 172px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#return_date_ek2 {
+	top: 204px;
+	left: 767px;
+	width: 204px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jdt_1890_ek1 {
+	top: 332px;
+	left: 159px;
+	width: 170px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3 {
+	top: 395px;
+	left: 92px;
+	width: 55px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2_ek1 {
+	top: 332px;
+	left: 92px;
+	width: 54px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_1_ek1 {
+	top: 268px;
+	left: 92px;
+	width: 49px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mbd_7031 {
+	top: 265px;
+	left: 159px;
+	width: 180px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#plate_ek1 {
+	top: 204px;
+	left: 196px;
+	width: 107px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#duration_ek2 {
+	top: 204px;
+	left: 615px;
+	width: 156px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#location_ek2 {
+	top: 204px;
+	left: 980px;
+	width: 157px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#total_ek1 {
+	top: 204px;
+	left: 1145px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#date_ek2 {
+	top: 204px;
+	left: 495px;
+	width: 102px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#time_ek2 {
+	top: 204px;
+	left: 343px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_4 {
+	top: 316px;
+	left: 65px;
+	width: 1308px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.13deg);
+	-o-transform:rotate(-0.13deg);
+	-webkit-transform:rotate(-0.13deg);
+	-moz-transform:rotate(-0.13deg);
+	transform:rotate(-0.13deg);
+	background:#000000;
+}
+
+
+#line_5_ek1 {
+	top: 384px;
+	left: 66px;
+	width: 1308px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.13deg);
+	-o-transform:rotate(-0.13deg);
+	-webkit-transform:rotate(-0.13deg);
+	-moz-transform:rotate(-0.13deg);
+	transform:rotate(-0.13deg);
+	background:#000000;
+}
+
+
+#no_ek1 {
+	top: 204px;
+	left: 85px;
+	width: 76px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_3_ek1 {
+	top: 319px;
+	left: 188px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_6_ek1 {
+	top: 319px;
+	left: 318px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_8_ek1 {
+	top: 318px;
+	left: 627px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_7_ek1 {
+	top: 319px;
+	left: 485px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_1_ek1 {
+	top: 250px;
+	left: 67px;
+	width: 1308px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.13deg);
+	-o-transform:rotate(-0.13deg);
+	-webkit-transform:rotate(-0.13deg);
+	-moz-transform:rotate(-0.13deg);
+	transform:rotate(-0.13deg);
+	background:#000000;
+}
+
+
+#line_2_ek1 {
+	top: 319px;
+	left: 24px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_9_ek1 {
+	top: 319px;
+	left: 834px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#_image_31 {
+	top: 257px;
+	left: 1311px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#_image_32 {
+	top: 258px;
+	left: 1248px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_34_ek1 {
+	top: 391px;
+	left: 1248px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_33_ek1 {
+	top: 324px;
+	left: 1248px;
+	width: 50px;
+	height: 50px;
+}
+
+#group_2077_ek6 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek8 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek6 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek27 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek28 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek29 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek18 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek9 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek15 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek11 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek13 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek11 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek11 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_rentalpaid_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__rentalpaid_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1189_ek2 {
+	top: 194px;
+	left: 67px;
+	width: 1310px;
+	height: 249px;
+	background:rgba(217,217,217,1);
+}
+
+
+#rm660_ek2 {
+	top: 391px;
+	left: 1128px;
+	width: 142px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rm360_ek1 {
+	top: 264px;
+	left: 1128px;
+	width: 142px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rm800_ek2 {
+	top: 330px;
+	left: 1128px;
+	width: 142px;
+	height: 54px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#batu_pahat_ek2 {
+	top: 331px;
+	left: 963px;
+	width: 195px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#parit_raja_ek2 {
+	top: 265px;
+	left: 968px;
+	width: 185px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#muar_ek2 {
+	top: 388px;
+	left: 1008px;
+	width: 129px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_16_01_2021_ek2 {
+	top: 395px;
+	left: 771px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11_12_2021_ek2 {
+	top: 332px;
+	left: 771px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_29_06_2022_ek1 {
+	top: 266px;
+	left: 768px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_27_06_2022_ek1 {
+	top: 266px;
+	left: 442px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_07_12_2021_ek2 {
+	top: 331px;
+	left: 442px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_14_01_2021_ek2 {
+	top: 395px;
+	left: 442px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_5_days_ek2 {
+	top: 331px;
+	left: 631px;
+	width: 138px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_days_ek4 {
+	top: 265px;
+	left: 631px;
+	width: 138px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_days_ek5 {
+	top: 395px;
+	left: 631px;
+	width: 138px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_8pm_ek2 {
+	top: 265px;
+	left: 345px;
+	width: 99px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11pm_ek2 {
+	top: 395px;
+	left: 337px;
+	width: 115px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_10am_ek2 {
+	top: 331px;
+	left: 337px;
+	width: 115px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_8pm_ek3 {
+	top: 265px;
+	left: 345px;
+	width: 99px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#action_ek2 {
+	top: 204px;
+	left: 1263px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_11_ek2 {
+	top: 318px;
+	left: 1117px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_10_ek2 {
+	top: 318px;
+	left: 999px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+#jbl_3380_ek4 {
+	top: 395px;
+	left: 159px;
+	width: 137px;
+	height: 36px;
+}
+
+#jbl_3380_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 172px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#return_date_ek3 {
+	top: 204px;
+	left: 767px;
+	width: 204px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jdt_1890_ek2 {
+	top: 332px;
+	left: 159px;
+	width: 170px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_ek1 {
+	top: 395px;
+	left: 92px;
+	width: 55px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2_ek2 {
+	top: 332px;
+	left: 92px;
+	width: 54px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_1_ek2 {
+	top: 268px;
+	left: 92px;
+	width: 49px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mbd_7031_ek1 {
+	top: 265px;
+	left: 159px;
+	width: 180px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#plate_ek2 {
+	top: 204px;
+	left: 196px;
+	width: 107px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#duration_ek3 {
+	top: 204px;
+	left: 615px;
+	width: 156px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#location_ek3 {
+	top: 204px;
+	left: 980px;
+	width: 157px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#total_ek2 {
+	top: 204px;
+	left: 1145px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#date_ek3 {
+	top: 204px;
+	left: 495px;
+	width: 102px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#time_ek3 {
+	top: 204px;
+	left: 343px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_4_ek1 {
+	top: 316px;
+	left: 65px;
+	width: 1308px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.13deg);
+	-o-transform:rotate(-0.13deg);
+	-webkit-transform:rotate(-0.13deg);
+	-moz-transform:rotate(-0.13deg);
+	transform:rotate(-0.13deg);
+	background:#000000;
+}
+
+
+#line_5_ek2 {
+	top: 384px;
+	left: 66px;
+	width: 1308px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.13deg);
+	-o-transform:rotate(-0.13deg);
+	-webkit-transform:rotate(-0.13deg);
+	-moz-transform:rotate(-0.13deg);
+	transform:rotate(-0.13deg);
+	background:#000000;
+}
+
+
+#no_ek2 {
+	top: 204px;
+	left: 85px;
+	width: 76px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_3_ek2 {
+	top: 319px;
+	left: 188px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_6_ek2 {
+	top: 319px;
+	left: 318px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_8_ek2 {
+	top: 318px;
+	left: 627px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_7_ek2 {
+	top: 319px;
+	left: 485px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_1_ek2 {
+	top: 250px;
+	left: 67px;
+	width: 1308px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.13deg);
+	-o-transform:rotate(-0.13deg);
+	-webkit-transform:rotate(-0.13deg);
+	-moz-transform:rotate(-0.13deg);
+	transform:rotate(-0.13deg);
+	background:#000000;
+}
+
+
+#line_2_ek2 {
+	top: 319px;
+	left: 24px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_9_ek2 {
+	top: 319px;
+	left: 834px;
+	width: 248px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#_image_32_ek1 {
+	top: 258px;
+	left: 1248px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_34_ek2 {
+	top: 391px;
+	left: 1248px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#image_33_ek2 {
+	top: 324px;
+	left: 1248px;
+	width: 50px;
+	height: 50px;
+}
+
+#group_2077_ek7 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek9 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek7 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek30 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek31 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek32 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek20 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek10 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek16 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek12 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek14 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek12 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek12 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_login_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__login_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#about_us_ek17 {
+	top: 53px;
+	left: 1085px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek15 {
+	top: 53px;
+	left: 733px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek13 {
+	top: 53px;
+	left: 874px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#login_ek3 {
+	top: 53px;
+	left: 1275px;
+	width: 113px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#image_1_ek10 {
+	top: 179px;
+	left: 615px;
+	width: 211px;
+	height: 205px;
+}
+
+
+#email_ek3 {
+	top: 412px;
+	left: 419px;
+	width: 111px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#password_ek3 {
+	top: 538px;
+	left: 419px;
+	width: 174px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#forgot_your_password__ek1 {
+	top: 802px;
+	left: 558px;
+	width: 360px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	font-style: italic;
+	text-align: left;
+	color:#2361D9;
+}
+
+
+#rectangle_2_ek3 {
+	top: 455px;
+	left: 419px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_3_ek3 {
+	top: 581px;
+	left: 419px;
+	width: 629px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_rectangle_4_ek1 {
+	top: 688px;
+	left: 628px;
+	width: 184px;
+	height: 83px;
+	background:rgba(254,178,155,1);
+}
+
+
+#login_ek4 {
+	top: 711px;
+	left: 680px;
+	width: 113px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_option_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 607px;
+	height: 380px;
+}
+
+#_bg__option_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 607px;
+	height: 380px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1184 {
+	top: 0px;
+	left: 0px;
+	width: 611px;
+	height: 80px;
+	border: 2px solid #000000;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_1188 {
+	top: 304px;
+	left: 0px;
+	width: 611px;
+	height: 80px;
+	border: 2px solid #000000;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_1187 {
+	top: 228px;
+	left: 0px;
+	width: 611px;
+	height: 80px;
+	border: 2px solid #000000;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_1186 {
+	top: 152px;
+	left: 0px;
+	width: 611px;
+	height: 80px;
+	border: 2px solid #000000;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_1185 {
+	top: 76px;
+	left: 0px;
+	width: 611px;
+	height: 80px;
+	border: 2px solid #000000;
+	background:rgba(205,220,223,1);
+}
+
+
+#toyota_vios__rm160_per_day_ {
+	top: 20px;
+	left: 22px;
+	width: 444px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#nissan_almera__rm150_per_day_ {
+	top: 324px;
+	left: 22px;
+	width: 481px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#proton_x50__rm180_per_day_ {
+	top: 248px;
+	left: 22px;
+	width: 437px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#toyota_hilux__rm220_per_day_ {
+	top: 172px;
+	left: 22px;
+	width: 457px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#honda_city__rm160_per_day_ {
+	top: 96px;
+	left: 22px;
+	width: 437px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#page_rentinfo_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__rentinfo_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#time_ek4 {
+	top: 176px;
+	left: 61px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#return_date_ek4 {
+	top: 556px;
+	left: 61px;
+	width: 204px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9_ek1 {
+	top: 219px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_14_ek1 {
+	top: 904px;
+	left: 1134px;
+	width: 273px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#save_ek1 {
+	top: 924px;
+	left: 1236px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_10_ek1 {
+	top: 345px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#date_ek4 {
+	top: 302px;
+	left: 61px;
+	width: 102px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_11_ek1 {
+	top: 477px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#duration_ek4 {
+	top: 427px;
+	left: 61px;
+	width: 156px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_12_ek1 {
+	top: 603px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#location_ek4 {
+	top: 679px;
+	left: 61px;
+	width: 157px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_13_ek1 {
+	top: 722px;
+	left: 61px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#car_ek4 {
+	top: 176px;
+	left: 759px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_15_ek1 {
+	top: 219px;
+	left: 759px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#new {
+	top: 500px;
+	left: 759px;
+	width: 100px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_17 {
+	top: 543px;
+	left: 759px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#new_ek1 {
+	top: 338px;
+	left: 759px;
+	width: 100px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_16 {
+	top: 381px;
+	left: 759px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+#group_2080_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_3_ek5 {
+	top: 12px;
+	left: 13px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2081_ek3 {
+	top: 42px;
+	left: 1048px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek33 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek34 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek35 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek22 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek11 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek18 {
+	top: 58px;
+	left: 785px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek13 {
+	top: 58px;
+	left: 254px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek16 {
+	top: 58px;
+	left: 149px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_info_ek3 {
+	top: 58px;
+	left: 366px;
+	width: 162px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rental_detail_ek3 {
+	top: 58px;
+	left: 514px;
+	width: 214px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_car_ek5 {
+	top: 58px;
+	left: 714px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek13 {
+	top: 55px;
+	left: 938px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_allrentaldetail_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__allrentaldetail_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1189_ek3 {
+	top: 192px;
+	left: 15px;
+	width: 1405px;
+	height: 485px;
+	background:rgba(217,217,217,1);
+}
+
+
+#_04_05_2022 {
+	top: 454px;
+	left: 782px;
+	width: 174px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#chong {
+	top: 510px;
+	left: 99px;
+	width: 105px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ram {
+	top: 573px;
+	left: 111px;
+	width: 79px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#tan {
+	top: 626px;
+	left: 115px;
+	width: 71px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ali {
+	top: 454px;
+	left: 123px;
+	width: 55px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#siti {
+	top: 392px;
+	left: 118px;
+	width: 64px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#lim {
+	top: 332px;
+	left: 118px;
+	width: 69px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#john {
+	top: 269px;
+	left: 109px;
+	width: 85px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rm660_ek3 {
+	top: 390px;
+	left: 1089px;
+	width: 115px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#muar_ek3 {
+	top: 388px;
+	left: 978px;
+	width: 105px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_01_05_2022 {
+	top: 392px;
+	left: 481px;
+	width: 173px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_04_05_2022_ek1 {
+	top: 394px;
+	left: 784px;
+	width: 175px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_days_ek6 {
+	top: 392px;
+	left: 669px;
+	width: 112px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11pm_ek3 {
+	top: 390px;
+	left: 366px;
+	width: 93px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#jbl_3380_ek6 {
+	top: 394px;
+	left: 205px;
+	width: 117px;
+	height: 37px;
+}
+
+#jbl_3380_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 122px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_ek2 {
+	top: 394px;
+	left: 40px;
+	width: 43px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_5_ek3 {
+	top: 382px;
+	left: 15px;
+	width: 1405.29px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.16deg);
+	-o-transform:rotate(-0.16deg);
+	-webkit-transform:rotate(-0.16deg);
+	-moz-transform:rotate(-0.16deg);
+	transform:rotate(-0.16deg);
+	background:#000000;
+}
+
+
+#rm120 {
+	top: 623px;
+	left: 1094px;
+	width: 115px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#muar_ek4 {
+	top: 621px;
+	left: 982px;
+	width: 105px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_28_03_2022 {
+	top: 625px;
+	left: 479px;
+	width: 173px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_29_03_2022 {
+	top: 628px;
+	left: 779px;
+	width: 175px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_1_day {
+	top: 621px;
+	left: 670px;
+	width: 113px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11pm_ek4 {
+	top: 624px;
+	left: 366px;
+	width: 93px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#jbl_3384 {
+	top: 624px;
+	left: 205px;
+	width: 117px;
+	height: 37px;
+}
+
+#jbl_3380_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 125px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_7 {
+	top: 626px;
+	left: 40px;
+	width: 41px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_9_ek3 {
+	top: 614px;
+	left: 13px;
+	width: 1405.29px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.15deg);
+	-o-transform:rotate(-0.15deg);
+	-webkit-transform:rotate(-0.15deg);
+	-moz-transform:rotate(-0.15deg);
+	transform:rotate(-0.15deg);
+	background:#000000;
+}
+
+
+#rm1220 {
+	top: 565px;
+	left: 1084px;
+	width: 134px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#segamat {
+	top: 563px;
+	left: 960px;
+	width: 148px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_31_03_2022 {
+	top: 567px;
+	left: 480px;
+	width: 174px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_03_04_2022 {
+	top: 566px;
+	left: 782px;
+	width: 174px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_6_days {
+	top: 566px;
+	left: 664px;
+	width: 112px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11pm_ek5 {
+	top: 567px;
+	left: 366px;
+	width: 93px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#jbl_3383 {
+	top: 567px;
+	left: 205px;
+	width: 117px;
+	height: 37px;
+}
+
+#jbl_3380_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 119px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_6 {
+	top: 568px;
+	left: 40px;
+	width: 42px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_8_ek3 {
+	top: 556px;
+	left: 13px;
+	width: 1405.29px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.15deg);
+	-o-transform:rotate(-0.15deg);
+	-webkit-transform:rotate(-0.15deg);
+	-moz-transform:rotate(-0.15deg);
+	transform:rotate(-0.15deg);
+	background:#000000;
+}
+
+
+#rm440 {
+	top: 509px;
+	left: 1094px;
+	width: 115px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#larkin {
+	top: 508px;
+	left: 975px;
+	width: 105px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11_04_2022 {
+	top: 507px;
+	left: 484px;
+	width: 173px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_13_04_2022 {
+	top: 508px;
+	left: 781px;
+	width: 174px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2_days {
+	top: 508px;
+	left: 658px;
+	width: 112px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11pm_ek6 {
+	top: 509px;
+	left: 366px;
+	width: 93px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#jbl_3382 {
+	top: 510px;
+	left: 205px;
+	width: 116px;
+	height: 37px;
+}
+
+#jbl_3380_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 124px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_5 {
+	top: 510px;
+	left: 40px;
+	width: 42px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_7_ek3 {
+	top: 498px;
+	left: 13px;
+	width: 1405.29px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.15deg);
+	-o-transform:rotate(-0.15deg);
+	-webkit-transform:rotate(-0.15deg);
+	-moz-transform:rotate(-0.15deg);
+	transform:rotate(-0.15deg);
+	background:#000000;
+}
+
+
+#rm1440 {
+	top: 448px;
+	left: 1085px;
+	width: 143px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kluang {
+	top: 450px;
+	left: 970px;
+	width: 134px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_29_04_2022 {
+	top: 450px;
+	left: 481px;
+	width: 173px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_7_days {
+	top: 450px;
+	left: 664px;
+	width: 112px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_11pm_ek7 {
+	top: 447px;
+	left: 366px;
+	width: 93px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+#jbl_3381 {
+	top: 454px;
+	left: 205px;
+	width: 117px;
+	height: 37px;
+}
+
+#jbl_3380_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 123px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_4 {
+	top: 452px;
+	left: 40px;
+	width: 43px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_6_ek3 {
+	top: 439px;
+	left: 13px;
+	width: 1405.29px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.15deg);
+	-o-transform:rotate(-0.15deg);
+	-webkit-transform:rotate(-0.15deg);
+	-moz-transform:rotate(-0.15deg);
+	transform:rotate(-0.15deg);
+	background:#000000;
+}
+
+
+#rm360_ek2 {
+	top: 263px;
+	left: 1089px;
+	width: 115px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rm800_ek3 {
+	top: 330px;
+	left: 1089px;
+	width: 115px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#batu_pahat_ek3 {
+	top: 331px;
+	left: 948px;
+	width: 160px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#parit_raja_ek3 {
+	top: 264px;
+	left: 952px;
+	width: 152px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_30_06_2022 {
+	top: 265px;
+	left: 779px;
+	width: 175px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_27_06_2022_ek2 {
+	top: 265px;
+	left: 487px;
+	width: 173px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_07_05_2022 {
+	top: 326px;
+	left: 484px;
+	width: 173px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_10_05_2022 {
+	top: 328px;
+	left: 783px;
+	width: 174px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_5_days_ek3 {
+	top: 331px;
+	left: 664px;
+	width: 112px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_3_days_ek7 {
+	top: 264px;
+	left: 664px;
+	width: 112px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_10am_ek3 {
+	top: 331px;
+	left: 366px;
+	width: 93px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_8pm_ek4 {
+	top: 265px;
+	left: 375px;
+	width: 80px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_10_ek3 {
+	top: 435px;
+	left: 841px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_13 {
+	top: 434px;
+	left: 951px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_14 {
+	top: 434px;
+	left: 1080px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#return_date_ek5 {
+	top: 202px;
+	left: 778px;
+	width: 170px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jdt_1890_ek3 {
+	top: 331px;
+	left: 208px;
+	width: 140px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2_ek3 {
+	top: 330px;
+	left: 40px;
+	width: 42px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_1_ek3 {
+	top: 269px;
+	left: 42px;
+	width: 38px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#mbd_7031_ek2 {
+	top: 265px;
+	left: 204px;
+	width: 148px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#plate_ek3 {
+	top: 205px;
+	left: 234px;
+	width: 86px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#name_ek2 {
+	top: 202px;
+	left: 103px;
+	width: 97px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#duration_ek5 {
+	top: 202px;
+	left: 650px;
+	width: 128px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#location_ek5 {
+	top: 202px;
+	left: 962px;
+	width: 128px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#total_ek3 {
+	top: 202px;
+	left: 1104px;
+	width: 84px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#status {
+	top: 202px;
+	left: 1218px;
+	width: 102px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#action_ek3 {
+	top: 202px;
+	left: 1334px;
+	width: 104px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#date_ek5 {
+	top: 202px;
+	left: 527px;
+	width: 82px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#time_ek5 {
+	top: 202px;
+	left: 371px;
+	width: 84px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_4_ek2 {
+	top: 318px;
+	left: 13px;
+	width: 1405.29px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.15deg);
+	-o-transform:rotate(-0.15deg);
+	-webkit-transform:rotate(-0.15deg);
+	-moz-transform:rotate(-0.15deg);
+	transform:rotate(-0.15deg);
+	background:#000000;
+}
+
+
+#no_ek3 {
+	top: 204px;
+	left: 30px;
+	width: 61px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_3_ek3 {
+	top: 436px;
+	left: 91px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_6_ek4 {
+	top: 436px;
+	left: 221px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_8_ek4 {
+	top: 435px;
+	left: 523px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_7_ek4 {
+	top: 436px;
+	left: 402px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_1_ek3 {
+	top: 251px;
+	left: 15px;
+	width: 1405.29px;
+	height: 1px;
+	
+	-ms-transform:rotate(-0.16deg);
+	-o-transform:rotate(-0.16deg);
+	-webkit-transform:rotate(-0.16deg);
+	-moz-transform:rotate(-0.16deg);
+	transform:rotate(-0.16deg);
+	background:#000000;
+}
+
+
+#line_2_ek3 {
+	top: 434px;
+	left: -43px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_12 {
+	top: 436px;
+	left: -165px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#line_9_ek4 {
+	opacity:0.47;
+	top: 436px;
+	left: 702px;
+	width: 485px;
+	height: 1px;
+	
+	-ms-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-moz-transform:rotate(90deg);
+	transform:rotate(90deg);
+	background:#000000;
+}
+
+
+#rectangle_13_ek2 {
+	top: 258px;
+	left: 1199px;
+	width: 117px;
+	height: 52px;
+	background:rgba(254,178,155,1);
+}
+
+
+#paid {
+	top: 265px;
+	left: 1231px;
+	width: 78px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1190 {
+	top: 324px;
+	left: 1199px;
+	width: 117px;
+	height: 52px;
+	background:rgba(254,178,155,1);
+}
+
+
+#paid_ek1 {
+	top: 331px;
+	left: 1231px;
+	width: 78px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1191 {
+	top: 383px;
+	left: 1198px;
+	width: 117px;
+	height: 52px;
+	background:rgba(254,178,155,1);
+}
+
+
+#paid_ek2 {
+	top: 390px;
+	left: 1230px;
+	width: 78px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1192 {
+	top: 440px;
+	left: 1198px;
+	width: 116px;
+	height: 52px;
+	background:rgba(254,178,155,1);
+}
+
+
+#paid_ek3 {
+	top: 447px;
+	left: 1229px;
+	width: 79px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1193_ek2 {
+	top: 500px;
+	left: 1198px;
+	width: 117px;
+	height: 52px;
+	background:rgba(254,178,155,1);
+}
+
+
+#paid_ek4 {
+	top: 507px;
+	left: 1230px;
+	width: 78px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1194_ek2 {
+	top: 556px;
+	left: 1199px;
+	width: 117px;
+	height: 52px;
+	background:rgba(254,178,155,1);
+}
+
+
+#paid_ek5 {
+	top: 563px;
+	left: 1231px;
+	width: 78px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1195_ek2 {
+	top: 619px;
+	left: 1198px;
+	width: 117px;
+	height: 52px;
+	background:rgba(254,178,155,1);
+}
+
+
+#paid_ek6 {
+	top: 626px;
+	left: 1230px;
+	width: 78px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_32_ek2 {
+	top: 254px;
+	left: 1353px;
+	width: 43px;
+	height: 51px;
+}
+
+
+#image_33_ek3 {
+	top: 321px;
+	left: 1353px;
+	width: 43px;
+	height: 51px;
+}
+
+
+#image_34_ek3 {
+	top: 384px;
+	left: 1353px;
+	width: 43px;
+	height: 51px;
+}
+
+
+#image_35 {
+	top: 440px;
+	left: 1353px;
+	width: 43px;
+	height: 51px;
+}
+
+
+#image_36 {
+	top: 503px;
+	left: 1353px;
+	width: 43px;
+	height: 51px;
+}
+
+
+#image_38 {
+	top: 619px;
+	left: 1353px;
+	width: 43px;
+	height: 51px;
+}
+
+
+#image_37 {
+	top: 557px;
+	left: 1353px;
+	width: 43px;
+	height: 51px;
+}
+
+
+#about_us_ek19 {
+	top: 53px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek14 {
+	top: 53px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek17 {
+	top: 55px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek14 {
+	top: 53px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#logout_ek14 {
+	top: 53px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#group_2080_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+#group_2081_ek4 {
+	top: 42px;
+	left: 1048px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek36 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek37 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek38 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek24 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek25 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek12 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#image_3_ek6 {
+	top: 12px;
+	left: 13px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#_about_us_ek20 {
+	top: 58px;
+	left: 785px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek15 {
+	top: 58px;
+	left: 254px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek18 {
+	top: 58px;
+	left: 149px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_info_ek4 {
+	top: 58px;
+	left: 366px;
+	width: 162px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rental_detail_ek4 {
+	top: 58px;
+	left: 514px;
+	width: 214px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_car_ek6 {
+	top: 58px;
+	left: 714px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek15 {
+	top: 55px;
+	left: 938px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_car_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1661px;
+}
+
+#_bg__car_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1661px;
+	background:rgba(238,239,234,1);
+}
+
+
+#rectangle_1183_ek1 {
+	top: 195px;
+	left: 119px;
+	width: 1201px;
+	height: 1421px;
+	background:rgba(254,178,155,1);
+}
+
+
+#image_31_ek1 {
+	top: 559px;
+	left: 1170px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#_image_28_ek1 {
+	top: 195px;
+	left: 1260px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#_2020_proton_x50_1_5l_150_177ps_4_more_available_rates___rm220_per_day {
+	top: 742px;
+	left: 656px;
+	width: 477px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2020_nissan_almera_1_0l_100ps_3_more_available_rates___rm150_per_day {
+	top: 517px;
+	left: 656px;
+	width: 477px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2020_toyota_hilux_2_4_2_8l_150_204ps_6_more_available_rates___rm220_per_day {
+	top: 275px;
+	left: 656px;
+	width: 477px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_16_ek1 {
+	top: 274px;
+	left: 183px;
+	width: 386px;
+	height: 181px;
+}
+
+
+#image_17_ek1 {
+	top: 499px;
+	left: 183px;
+	width: 386px;
+	height: 181px;
+}
+
+
+#image_18_ek1 {
+	top: 724px;
+	left: 183px;
+	width: 386px;
+	height: 181px;
+}
+
+
+#_2019_perodua_myvi_1_3_1_5l_95_103ps_11_more_available_rates___rm120_per_day {
+	top: 985px;
+	left: 656px;
+	width: 356px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#toyata_vios_4th_gen_1_5l_107ps_7_more_available_rates___rm160_per_day {
+	top: 1228px;
+	left: 656px;
+	width: 357px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2021_honda_city_1_5l_109_121ps_2_more_available_rates___rm160_per_day {
+	top: 1425px;
+	left: 654px;
+	width: 357px;
+	height: 165px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#image_6_ek3 {
+	top: 967px;
+	left: 183px;
+	width: 382px;
+	height: 181px;
+}
+
+
+#image_3_ek7 {
+	top: 1210px;
+	left: 201px;
+	width: 382px;
+	height: 181px;
+}
+
+
+#image_4_ek2 {
+	top: 1408px;
+	left: 199px;
+	width: 382px;
+	height: 181px;
+}
+
+
+#image_29_ek1 {
+	top: 317px;
+	left: 1170px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#image_41 {
+	top: 1474px;
+	left: 1174px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#image_39 {
+	top: 1270px;
+	left: 1182px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#image_37_ek1 {
+	top: 1027px;
+	left: 1176px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#_image_35_ek1 {
+	top: 317px;
+	left: 1170px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#image_33_ek4 {
+	top: 784px;
+	left: 1176px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#add_car_information {
+	top: 207px;
+	left: 958px;
+	width: 321px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#about_us_ek21 {
+	top: 53px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek16 {
+	top: 53px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek19 {
+	top: 55px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek15 {
+	top: 53px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#logout_ek16 {
+	top: 53px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#group_2080_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_3_ek8 {
+	top: 12px;
+	left: 13px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2081_ek5 {
+	top: 42px;
+	left: 1048px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek39 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek40 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek41 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek26 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek27 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek13 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek22 {
+	top: 58px;
+	left: 785px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek17 {
+	top: 58px;
+	left: 254px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek20 {
+	top: 58px;
+	left: 149px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_info_ek5 {
+	top: 58px;
+	left: 366px;
+	width: 162px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rental_detail_ek5 {
+	top: 58px;
+	left: 514px;
+	width: 214px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#car_ek7 {
+	top: 58px;
+	left: 714px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek17 {
+	top: 55px;
+	left: 938px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_addcar_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__addcar_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#image_42 {
+	top: 157px;
+	left: 645px;
+	width: 150px;
+	height: 150px;
+}
+
+
+#specs {
+	top: 461px;
+	left: 416px;
+	width: 123px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_17_ek1 {
+	top: 504px;
+	left: 416px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#number_of_cars_available {
+	top: 587px;
+	left: 416px;
+	width: 394px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_18 {
+	top: 630px;
+	left: 416px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rates {
+	top: 713px;
+	left: 416px;
+	width: 115px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_19 {
+	top: 756px;
+	left: 416px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#car_name {
+	top: 335px;
+	left: 416px;
+	width: 177px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_16_ek1 {
+	top: 378px;
+	left: 416px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_rectangle_14_ek2 {
+	top: 900px;
+	left: 1114px;
+	width: 273px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#save_ek2 {
+	top: 920px;
+	left: 1216px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#about_us_ek23 {
+	top: 53px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek18 {
+	top: 53px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek21 {
+	top: 55px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek16 {
+	top: 53px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#logout_ek18 {
+	top: 53px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#group_2080_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+#group_2081_ek6 {
+	top: 42px;
+	left: 1048px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek42 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek43 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek44 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek28 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek29 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek14 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#image_3_ek9 {
+	top: 12px;
+	left: 13px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#_about_us_ek24 {
+	top: 58px;
+	left: 785px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek19 {
+	top: 58px;
+	left: 254px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek22 {
+	top: 58px;
+	left: 149px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_info_ek6 {
+	top: 58px;
+	left: 366px;
+	width: 162px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rental_detail_ek6 {
+	top: 58px;
+	left: 514px;
+	width: 214px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_car_ek8 {
+	top: 58px;
+	left: 714px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek19 {
+	top: 55px;
+	left: 938px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_editcar_adminpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__editcar_adminpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+
+#image_16_ek2 {
+	top: 169px;
+	left: 527px;
+	width: 386px;
+	height: 181px;
+}
+
+
+#specs_ek1 {
+	top: 505px;
+	left: 416px;
+	width: 123px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_17_ek2 {
+	top: 548px;
+	left: 416px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_2_4_2_8l_150_204ps {
+	top: 568px;
+	left: 445px;
+	width: 322px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#number_of_cars {
+	top: 631px;
+	left: 416px;
+	width: 260px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_18_ek1 {
+	top: 674px;
+	left: 416px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_20 {
+	top: 800px;
+	left: 416px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rates_ek1 {
+	top: 757px;
+	left: 416px;
+	width: 115px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rm220 {
+	top: 820px;
+	left: 445px;
+	width: 136px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#car_name_ek1 {
+	top: 379px;
+	left: 416px;
+	width: 177px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_16_ek2 {
+	top: 422px;
+	left: 416px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_2020_toyota_hilux {
+	top: 442px;
+	left: 445px;
+	width: 292px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_rectangle_14_ek3 {
+	top: 900px;
+	left: 1114px;
+	width: 273px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#save_ek3 {
+	top: 920px;
+	left: 1216px;
+	width: 105px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_10 {
+	top: 694px;
+	left: 445px;
+	width: 68px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#about_us_ek25 {
+	top: 53px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#profile_ek20 {
+	top: 53px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#home_ek23 {
+	top: 55px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#rent_a_car_ek17 {
+	top: 53px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#logout_ek20 {
+	top: 53px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#group_2080_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+#group_2081_ek7 {
+	top: 42px;
+	left: 1048px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek45 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek46 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek47 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek30 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek31 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek15 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#image_3_ek10 {
+	top: 12px;
+	left: 13px;
+	width: 121px;
+	height: 117px;
+}
+
+
+#_about_us_ek26 {
+	top: 58px;
+	left: 785px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek21 {
+	top: 58px;
+	left: 254px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek24 {
+	top: 58px;
+	left: 149px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_info_ek7 {
+	top: 58px;
+	left: 366px;
+	width: 162px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rental_detail_ek7 {
+	top: 58px;
+	left: 514px;
+	width: 214px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_car_ek9 {
+	top: 58px;
+	left: 714px;
+	width: 85px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek21 {
+	top: 55px;
+	left: 938px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_paymentmethod_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__paymentmethod_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+#paymentmethod_userpc__ek3 {
+	top: 243px;
+	left: 400px;
+	width: 668px;
+	height: 306px;
+}
+
+#select_a_payment_method {
+	top: 26px;
+	left: 152px;
+	width: 399px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_rectangle_1190_ek1 {
+	top: 89px;
+	left: 129px;
+	width: 409px;
+	height: 72px;
+}
+
+
+#credit_card {
+	top: 107px;
+	left: 252px;
+	width: 199px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_rectangle_1191_ek1 {
+	top: 188px;
+	left: 129px;
+	width: 409px;
+	height: 72px;
+}
+
+
+#bank_transfer {
+	top: 206px;
+	left: 235px;
+	width: 232px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_2077_ek8 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek11 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek8 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek48 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek49 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek50 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek32 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek33 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek16 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek27 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek22 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek25 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek18 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek22 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_payment1_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__payment1_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+#payment1_userpc__ek3 {
+	top: 220px;
+	left: 234px;
+	width: 1000px;
+	height: 700px;
+}
+
+#total___rm_360 {
+	top: 36px;
+	left: 397px;
+	width: 241px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#card_holder_name {
+	top: 119px;
+	left: 196px;
+	width: 298px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9_ek2 {
+	top: 162px;
+	left: 196px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rectangle_10_ek2 {
+	top: 288px;
+	left: 196px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#card_number {
+	top: 245px;
+	left: 196px;
+	width: 225px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_11_ek2 {
+	top: 420px;
+	left: 196px;
+	width: 263px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#_rectangle_13_ek3 {
+	top: 569px;
+	left: 368px;
+	width: 263px;
+	height: 76px;
+	background:rgba(254,178,155,1);
+}
+
+
+#pay {
+	top: 589px;
+	left: 473px;
+	width: 88px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_12_ek2 {
+	top: 420px;
+	left: 540px;
+	width: 263px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#mm_yy {
+	top: 370px;
+	left: 196px;
+	width: 139px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_000 {
+	top: 370px;
+	left: 540px;
+	width: 92px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_2077_ek9 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek12 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek9 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek51 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek52 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek53 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek34 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek35 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek17 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek28 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek23 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek26 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek19 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek23 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_payment2_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__payment2_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+#payment2_userpc__ek3 {
+	top: 214px;
+	left: 234px;
+	width: 1000px;
+	height: 700px;
+}
+
+#total___rm_360_ek1 {
+	top: 36px;
+	left: 397px;
+	width: 241px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#pay_to {
+	top: 119px;
+	left: 196px;
+	width: 125px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9_ek3 {
+	top: 162px;
+	left: 196px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#bob_s_car_rental_account__cimb_ {
+	top: 182px;
+	left: 222px;
+	width: 498px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_10_ek3 {
+	top: 288px;
+	left: 196px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#bank_number {
+	top: 245px;
+	left: 196px;
+	width: 228px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_11_ek3 {
+	top: 420px;
+	left: 196px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#rentacarreceipt_jpg {
+	top: 443px;
+	left: 451px;
+	width: 255.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_rectangle_13_ek4 {
+	top: 569px;
+	left: 368px;
+	width: 263px;
+	height: 76px;
+	background:rgba(254,178,155,1);
+}
+
+
+#pay_ek1 {
+	top: 589px;
+	left: 473px;
+	width: 88px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#receipt {
+	top: 370px;
+	left: 196px;
+	width: 142px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1192_ek1 {
+	top: 433px;
+	left: 222px;
+	width: 212px;
+	height: 50px;
+	background:rgba(238,239,234,1);
+}
+
+
+#choose_file {
+	top: 440px;
+	left: 239px;
+	width: 202px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2136787618 {
+	top: 308px;
+	left: 219px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_2077_ek10 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek13 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek10 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek54 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek55 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek56 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek36 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek37 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek18 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek29 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek24 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek27 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek20 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek24 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#page_payment2error_userpc__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__payment2error_userpc__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(238,239,234,1);
+}
+
+#payment2_userpc__ek4 {
+	top: 214px;
+	left: 234px;
+	width: 1000px;
+	height: 700px;
+}
+
+#total___rm_360_ek2 {
+	top: 36px;
+	left: 397px;
+	width: 241px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#pay_to_ek1 {
+	top: 119px;
+	left: 196px;
+	width: 125px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9_ek4 {
+	top: 162px;
+	left: 196px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#bob_s_car_rental_account__cimb__ek1 {
+	top: 182px;
+	left: 222px;
+	width: 498px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_10_ek4 {
+	top: 288px;
+	left: 196px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#bank_number_ek1 {
+	top: 245px;
+	left: 196px;
+	width: 228px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_11_ek4 {
+	top: 420px;
+	left: 196px;
+	width: 607px;
+	height: 76px;
+	background:rgba(205,220,223,1);
+}
+
+
+#no_file_chosen {
+	top: 443px;
+	left: 451px;
+	width: 210.5px;
+	height: 47.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_13_ek5 {
+	top: 569px;
+	left: 368px;
+	width: 263px;
+	height: 76px;
+	background:rgba(254,178,155,1);
+}
+
+
+#pay_ek2 {
+	top: 589px;
+	left: 473px;
+	width: 88px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#receipt_ek1 {
+	top: 370px;
+	left: 196px;
+	width: 142px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_rectangle_1192_ek2 {
+	top: 433px;
+	left: 222px;
+	width: 212px;
+	height: 50px;
+	background:rgba(238,239,234,1);
+}
+
+
+#choose_file_ek1 {
+	top: 440px;
+	left: 239px;
+	width: 202px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_2136787618_ek1 {
+	top: 308px;
+	left: 219px;
+	width: 208px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+#group_2077_ek11 {
+	top: -3px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+#group_2076_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+}
+
+#rectangle_1_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 142px;
+	background:rgba(82,117,144,1);
+}
+
+
+#image_1_ek14 {
+	top: 10px;
+	left: 38px;
+	width: 121px;
+	height: 117px;
+}
+
+#group_2075_ek11 {
+	top: 39px;
+	left: 1035px;
+	width: 336px;
+	height: 62px;
+}
+#group_2070_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+#group_2052_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 336px;
+	height: 62px;
+}
+
+#rectangle_1176_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 296.47px;
+	height: 64px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	border: 1px solid #acb1c6;
+	background:rgba(254,253,254,0);
+}
+
+#group_ek57 {
+	top: 18px;
+	left: 313px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek58 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+#group_ek59 {
+	top: 0px;
+	left: 0px;
+	width: 23.45px;
+	height: 28.74px;
+}
+
+#vector_ek38 {
+	top: 16px;
+	left: 13px;
+	width: 10.4px;
+	height: 12.76px;
+}
+
+
+#vector_ek39 {
+	top: 0px;
+	left: 0px;
+	width: 14.98px;
+	height: 18.36px;
+}
+
+
+#search_ek19 {
+	top: 13px;
+	left: 27px;
+	width: 274.84px;
+	height: 47.42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#ACB1C6;
+}
+
+
+#_about_us_ek30 {
+	top: 50px;
+	left: 668px;
+	width: 167px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_profile_ek25 {
+	top: 50px;
+	left: 316px;
+	width: 126px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_home_ek28 {
+	top: 52px;
+	left: 190px;
+	width: 119px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_rent_a_car_ek21 {
+	top: 50px;
+	left: 457px;
+	width: 187px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+
+#_logout_ek25 {
+	top: 50px;
+	left: 858px;
+	width: 135px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#EEEFEA;
+}
+
+#overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    cursor: pointer;
+    z-index: 2;
+}
+
+#textaddcar{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    left: 50%;
+    color: white;
+    font-size: 70px;
+    transform: translate(-50%, 50%);
+    -ms-transform: translate(-50%, 50%);
+}
+
+#textlogin{
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 50%;
+    color: white;
+    font-size: 70px;
+    transform: translate(-50%, 50%);
+    -ms-transform: translate(-50%, 50%);
+}
+
+#texteditprof{
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    left: 50%;
+    color: white;
+    font-size: 70px;
+    transform: translate(-50%, 50%);
+    -ms-transform: translate(-50%, 50%);
+}
+
+
+
+
+/* Add your custom CSS here */
