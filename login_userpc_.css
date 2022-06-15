@@ -11134,7 +11134,41 @@ div { position: absolute; }
     -ms-transform: translate(-50%, 50%);
 }
 
+.dropbtn {
+	background-color: #CDDCDF;
+	color: white;
+	padding: -8px;
+	position: relative;
+	font-size: 16px;
+	border: none;
+}
 
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
 
+.dropdown-content {
+	display: none;
+	position: relative;
+	background-color: #CDDCDF;
+	min-width: 607px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+	top: 285px;
+	left: 759px;
+}
 
-/* Add your custom CSS here */
+.dropdown-content a {
+	color: black;
+	padding: 16px 16px;
+	text-decoration: none;
+	display: block;
+}
+  
+.dropdown-content a:hover {background-color: #CDDCDF;}
+  
+.dropdown:hover .dropdown-content {display: block;}
+  
+.dropdown:hover .dropbtn {background-color: #CDDCDF;}
+
